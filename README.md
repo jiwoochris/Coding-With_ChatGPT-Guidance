@@ -18,3 +18,8 @@ https://dacon.io/competitions/official/236071/overview/description
 ![guidance (3)](https://user-images.githubusercontent.com/83687471/234352710-a93efa65-9ce1-4efc-89fc-6676ee1df70f.jpg)
 ![guidance (4)](https://user-images.githubusercontent.com/83687471/234352714-1729dcb4-e92e-404f-b3c1-ac69499cbf33.jpg)
 ![guidance (5)](https://user-images.githubusercontent.com/83687471/234352718-d942204a-c3f0-4682-a28a-69d9ea48bb41.jpg)
+
+
+## 우승자 인터뷰
+
+https://dacon.io/ranking/interview/265?page=1
