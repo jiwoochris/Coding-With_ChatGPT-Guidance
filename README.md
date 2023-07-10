@@ -13,7 +13,7 @@ https://dacon.io/competitions/official/236071/overview/description
 
 ## Prompt_Strategy_for_Programming_with_ChatGPT.pdf (일부)
 
-Link : https://promptchatgpt.notion.site/Prompt-Strategy-for-Programming-with-ChatGPT-a867325a489b4adfb8b3eaceb0bfb9ba?pvs=4
+Link : https://www.notion.so/jiwoochris/Prompt-Strategy-for-Programming-with-ChatGPT-a867325a489b4adfb8b3eaceb0bfb9ba?pvs=4
 
 ![guidance](https://github.com/juicyjung/Coding-With_ChatGPT-Guidance/assets/83687471/9885d9d6-5cc7-4130-8f01-7d27cef6fa6f)
 ![guidance (2)](https://user-images.githubusercontent.com/83687471/234352704-ba317106-57c6-4817-9225-3482e83f0ae5.jpg)
